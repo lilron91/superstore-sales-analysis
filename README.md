@@ -4,6 +4,9 @@
 SQL-based analysis of the Kaggle Superstore dataset using MS SQL Server.
 Includes data modeling, normalization and business-focused queries.
 
+## Database Schema
+![ERD](draw_sql.jpeg)
+
 ## Database Structure
 - customers
 - products
